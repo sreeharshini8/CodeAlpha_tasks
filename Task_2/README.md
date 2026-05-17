@@ -69,6 +69,9 @@ Created:
 - Compared unemployment before pandemic.
 - Compared unemployment during pandemic.
 - Analyzed recovery trends.
+<img width="509" height="320" alt="Screenshot 2026-05-18 200101" src="https://github.com/user-attachments/assets/79b01684-e683-4e34-8ba2-bab0df60949d" />
+<img width="508" height="308" alt="Screenshot 2026-05-18 200248" src="https://github.com/user-attachments/assets/e2c412fb-c8b3-4873-b67e-a1b87d384917" />
+<img width="506" height="308" alt="Screenshot 2026-05-18 200050" src="https://github.com/user-attachments/assets/d31ee748-0d0d-4091-b1aa-389c7eaeb211" />
 
 ---
 
