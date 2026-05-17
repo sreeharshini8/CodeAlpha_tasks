@@ -25,7 +25,6 @@ This project predicts product sales using machine learning based on advertising 
 - Scikit-learn
 
 ---
-###Data processing
 ### Data Collection
 
 - TV advertising budget
@@ -44,10 +43,10 @@ This project predicts product sales using machine learning based on advertising 
 
 - Applied Linear Regression
 - Split data into training and testing sets
-- Trained the model
+- Trained the modelbr
+<img width="475" height="309" alt="Screenshot 2026-05-18 220922" src="https://github.com/user-attachments/assets/4f89dee1-b7af-4f71-b0f3-62d69668d1b6" />
+<br>
 - Generated predictions
-<img width="503" height="404" alt="Screenshot 2026-05-18 205438" src="https://github.com/user-attachments/assets/1c53008a-fe41-46c5-acf7-a2280760b3a7" />
-
 ### Model Evaluation
 
 - Mean Absolute Error (MAE)
