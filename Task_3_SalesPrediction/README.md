@@ -48,8 +48,8 @@ This project predicts product sales using machine learning based on advertising 
 - Split data into training and testing sets
 - Trained the model
 - Generated predictions
+<img width="501" height="390" alt="Screenshot 2026-05-18 220937" src="https://github.com/user-attachments/assets/557701e7-e122-497a-a2b9-403eb73ffabb" />
 
-<img width="503" height="404" alt="Screenshot 2026-05-18 205438" src="https://github.com/user-attachments/assets/99bd01dd-84b3-43d4-b08f-e6d94c015823" />
 
 <img width="475" height="359" alt="Screenshot 2026-05-18 220922" src="https://github.com/user-attachments/assets/ae3881fb-806f-4dc7-b40e-4c6bbaa8cbe5" />
 
