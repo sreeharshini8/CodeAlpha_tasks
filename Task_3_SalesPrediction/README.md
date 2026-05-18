@@ -25,6 +25,9 @@ This project predicts product sales using machine learning based on advertising 
 - Scikit-learn
 
 ---
+
+## Project Workflow
+
 ### Data Collection
 
 - TV advertising budget
@@ -43,16 +46,21 @@ This project predicts product sales using machine learning based on advertising 
 
 - Applied Linear Regression
 - Split data into training and testing sets
-- Trained the modelbr
-<img width="475" height="309" alt="Screenshot 2026-05-18 220922" src="https://github.com/user-attachments/assets/4f89dee1-b7af-4f71-b0f3-62d69668d1b6" />
-<br>
+- Trained the model
 - Generated predictions
+
+<img width="503" height="404" alt="Screenshot 2026-05-18 205438" src="https://github.com/user-attachments/assets/99bd01dd-84b3-43d4-b08f-e6d94c015823" />
+
+<img width="475" height="359" alt="Screenshot 2026-05-18 220922" src="https://github.com/user-attachments/assets/ae3881fb-806f-4dc7-b40e-4c6bbaa8cbe5" />
+
+
 ### Model Evaluation
 
 - Mean Absolute Error (MAE)
 - Mean Squared Error (MSE)
 - R² Score
-<img width="506" height="302" alt="Screenshot 2026-05-18 220957" src="https://github.com/user-attachments/assets/eb9b9fdc-1fe3-47a7-8d2b-bbf13a2322c7" />
+<img width="486" height="392" alt="Screenshot 2026-05-18 220957" src="https://github.com/user-attachments/assets/09706ed5-d2b5-44fd-a48b-d8448de84a3a" />
+
 
 ---
 
@@ -66,5 +74,5 @@ This project predicts product sales using machine learning based on advertising 
 
 ## Author
 
-Sree Harshini <br> 
+Sree Harshini  
 B.Tech – AI & DS
